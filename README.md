@@ -12,4 +12,5 @@ Facial Expression Recognition: The preprocessed face image is fed into a pre-tra
 
 Display: Finally, the original video frame is displayed with the detected face and the corresponding emotion label overlaid on it in real-time.
 
-[Facial Expression Recognition Demo](giftest.gif)
+<img src="giftest.gif" alt="giftest">
+
