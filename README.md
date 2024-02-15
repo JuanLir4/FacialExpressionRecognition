@@ -12,6 +12,16 @@ The facial detection process involves the following steps:
 
 **Display**: Finally, the original video frame is displayed with the detected face and the corresponding emotion label overlaid on it in real-time.
 
-## Exemplo:
+## Example:
 <img src="giftest.gif" alt="giftest">
+ote: At present, the model can only detect one person at a time. I intend to improve this limitation as well as enhance the accuracy of the model in future iterations.
+
+## Installed Libraries and Dataframes
+The following libraries are required for running this project:
+
+OpenCV
+Keras
+NumPy
+The data used in this project is sourced from the FER2013 dataset, which is commonly used to train and test facial expression recognition models
+
 
